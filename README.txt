@@ -1,0 +1,1 @@
+Ceci est le fichier explicatif de l'exercice du projet 2. Le dossier comprend deux fichiers 
